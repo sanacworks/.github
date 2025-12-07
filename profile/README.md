@@ -4,7 +4,7 @@ GitHub Profile README repository
 
 https://openclipart.org/detail/77347/globeblue
 
-![SANAC WORKS](img/globe-blue.svg.png)
+![SANAC WORKS](../img/globe-blue.svg.png)
 
 ## License
 
